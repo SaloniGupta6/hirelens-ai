@@ -23,7 +23,7 @@ The platform combines a React-based recruiter dashboard with a Python FastAPI ba
 - [Deployment](#deployment)
 - [Data Storage and Limitations](#data-storage-and-limitations)
 - [Future Enhancements](#future-enhancements)
-- [Author](#author)
+
 
 ---
 
