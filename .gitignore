@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Uploaded resumes and generated files
+backend/uploads/*
+backend/outputs/*
+!backend/uploads/.gitkeep
+!backend/outputs/.gitkeep
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# System and editor files
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Local backup files
+*_backup.py
+*.backup
